@@ -1,0 +1,64 @@
+Documentation
+
+ReactJS Helper
+
+Datta Able - Free Reactjs Admin Template
+
+This is a free version of Datta Able React Dashboard Template - Checkout - Premium Datta Able ReactJS
+
+It is made using React + Redux Framework. It fully supports Bootstrap 4 framework to achieve any dashboard need.
+
+Features
+
+Here are top features comes with Datta Able Reactjs admin template. We’ve highlighted a few of theme in below points.
+
+Use React Redux
+React Router
+Code Splitting
+Suspense
+Lazy load
+1 Layout (i.e. Vertical version)
+Well structured code styles
+Fully responsive and browser tested design
+Eye catchy color styles
+Made for performance and high aesthetic code
+About Design
+
+Pure eye catchy and vibrant colors are used in Datta Able Dashboard Template. More than 30+ preset color combination come up with a template. You can also apply your custom color combination via a single change in SCSS file with the help of Documentation OR video helper guide.
+
+Responsive
+
+Datta Able to design fully supports each responsive device sizes even it is retina screens and tested in major devices like iPad, tablets, mobiles. We've improved Datta Able design in various aspects like smooth rendering, easy scroll, reduce design glitch, etc...
+
+Performance
+
+Performance is our key point before developing Datta Able Admin Theme and we've made it with lots of testing and efforts on code improvement.
+Datta Able Admin Theme is made for performance and we've achieved it in terms of design testing or code testing. The design passed with good score in Google Page Speed, Pingdom, gtMetrix and code passed via w3 validators.
+notes - live demos have tons of features active, due to server location score may differ in Google Page Speed, Pingdom, GT Metrix.
+Flexibility
+
+Design and code is fully flexible to use directly in your project setup via Documentation helper, video helper tutorial, separate page
+for direct copy/paste(components, charts, widgets, form elements)
+Our newly launched video series helps you in every step in your development 24x7 without contacting further in our support desk.
+Request a new feature/video tutorial - contact us.
+Components
+
+Datta Able Admin Template comes with all Bootstrap basic components and we've also implemented extra 3'rd party tons of components which listed below. All components are in the latest version too.
+
+Basic components
+Form Components
+Tables
+Extra
+Font Icons
+Support
+
+Separate support desk for quick resolution of your query. Our previous support ratio result is 90% query resolution in 1'st response.
+
+Theme Package without Live Customizer & Page Builder (i.e. Demo Purpose only)
+Live demo preview image is not included in the package
+Credits
+
+Reactjs
+Redux React
+Open Sans – Google Font
+Free Images
